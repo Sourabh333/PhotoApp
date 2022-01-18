@@ -1,0 +1,12 @@
+.profile_image{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+
+}
+.root{
+    margin: 50px;
+}
+.mynav{
+    margin-bottom: 8%;
+}
